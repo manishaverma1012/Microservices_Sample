@@ -7,10 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ConfigServer" />
         <module name="HotelService" />
         <module name="UserServices" />
         <module name="ServiceRegistry" />
+        <module name="ConfigServer" />
         <module name="RatingService" />
         <module name="ApiGateway" />
       </profile>

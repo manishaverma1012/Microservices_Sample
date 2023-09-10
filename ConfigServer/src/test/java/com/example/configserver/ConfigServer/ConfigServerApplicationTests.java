@@ -1,9 +1,11 @@
-package com.example.config.server.ConfigServer;
+package com.example.configserver.ConfigServer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.cloud.config.server.EnableConfigServer;
 
 @SpringBootTest
+
 class ConfigServerApplicationTests {
 
 	@Test
